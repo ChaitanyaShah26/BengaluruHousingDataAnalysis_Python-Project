@@ -24,7 +24,9 @@ This project uses the following technologies:
 
 ## Project Report
 <p align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/Project_Report-e30e0e?style=for-the-badge&logo=file" alt="Project Report">
+    <a href="https://github.com/ChaitanyaShah26/BengaluruHousingDataAnalysis_Python-Project/blob/main/Project-Report%20(Bengaluru%20Housing%20Analysis).pdf" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/Project_Report-e30e0e?style=for-the-badge&logo=file" alt="Project Report">
+    </a>
 </p>
 
 
